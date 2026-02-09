@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Banana Man",
+  "base_artist": "Tally Hall",
+  "createdAt": "2026-02-09T07:02:52.273769Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Banana Man",
+      "artist": "Tally Hall",
+      "has_synced": true,
+      "path": "select/01_Banana_Man_Tally_Hall.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Banana Man",
+      "artist": "Tally Hall",
+      "has_synced": true,
+      "path": "select/02_Banana_Man_Tally_Hall.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Banana Man",
+      "artist": "Tally Hall",
+      "has_synced": true,
+      "path": "select/03_Banana_Man_Tally_Hall.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Banana Man",
+      "artist": "Chonny Jash",
+      "has_synced": false,
+      "path": "select/04_Banana_Man_Chonny_Jash.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Banana Man",
+      "artist": "Tally Hall",
+      "has_synced": true,
+      "path": "select/05_Banana_Man_Tally_Hall.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Banana Man (Instrumental)",
+      "artist": "Chonny Jash",
+      "has_synced": true,
+      "path": "select/06_Banana_Man_(Instrumental)_Chonny_Jash.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Banana Man (Demo)",
+      "artist": "Tally Hall",
+      "has_synced": true,
+      "path": "select/07_Banana_Man_(Demo)_Tally_Hall.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Backwoods Banana Man",
+      "artist": "Eric Bennett",
+      "has_synced": true,
+      "path": "select/08_Backwoods_Banana_Man_Eric_Bennett.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Banana Man",
+      "artist": "Chonny Jash",
+      "has_synced": true,
+      "path": "select/09_Banana_Man_Chonny_Jash.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Banana Man",
+      "artist": "Ghoti Hook",
+      "has_synced": true,
+      "path": "select/10_Banana_Man_Ghoti_Hook.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Banana Man",
+      "artist": "Tally Hall",
+      "has_synced": false,
+      "path": "select/pl_01_Banana_Man_Tally_Hall.txt"
+    }
+  ]
+}
